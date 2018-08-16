@@ -1,0 +1,33 @@
+{
+  "name": "omdb",
+  "version": "1.0.0",
+  "description": "Spotify API",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0",
+    "spotify-web-api-js": "^0.24.0",
+    "spotify-web-api-node": "^3.1.1",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianlucaI/LIRI-Application.git"
+  },
+  "author": "Gianluca Ianiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianlucaI/LIRI-Application/issues"
+  },
+  "homepage": "https://github.com/GianlucaI/LIRI-Application#readme",
+  "keywords": [
+    "Spotify"
+  ]
+}
